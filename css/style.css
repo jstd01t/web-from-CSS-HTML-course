@@ -1,0 +1,22 @@
+body {
+	font-family: 'Lilita One', cursive;
+	background: yellow;
+}
+h1 {
+color: #ff0000;
+}
+h4 {
+color: blue;
+}
+ul li em {
+color: green;
+}
+.Brends {
+	font-style: italic;
+	font-size: 14px;
+	background-color: #dddddd;
+}
+#ourAdvices {
+	background-color: #dddddd;
+	color: purple;
+}
